@@ -1,2 +1,2 @@
 # ReactApp
-second app
+first app
